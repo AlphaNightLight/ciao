@@ -1,4 +1,2 @@
 This file will cause conflicts.
-But master wants 
-THIS
-.
+Solution.
