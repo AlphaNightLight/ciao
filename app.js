@@ -1,4 +1,3 @@
-int main()
-{
-	return 0;
-}
+const port = 3000
+const http = require('http');
+
